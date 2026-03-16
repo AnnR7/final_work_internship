@@ -1,0 +1,9 @@
+pandas 
+numpy
+json
+scipy
+scipy.stats
+matplotlib
+seaborn
+sklearn.linear_model
+math
